@@ -1,5 +1,5 @@
 # Reachy's Alim board
-This repository contains the KiCad project of the board used de separate a 12V input in several outputs to provide 12V to the different parts of Reachy.
+This repository contains the KiCad project of the board used to separate a 12V input in several outputs to provide 12V to the different parts of Reachy.
 
 ![Alim Board Picture](alim_board.png)
 
