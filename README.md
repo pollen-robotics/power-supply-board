@@ -4,6 +4,7 @@ This repository contains the KiCad project of the board used to power the differ
 ![Power Supply Board Picture](power_supply_board.png)
 
 ## Features:
+
 -Switch for activate or not the 12V input in the motorised parts of Reachy
 -Connector to power the NUC computer
 -Robus connectors to plug the parts of Reachy in, and the gate boards used to make the communication of the parts
