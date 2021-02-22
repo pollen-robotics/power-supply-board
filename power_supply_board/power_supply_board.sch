@@ -65,8 +65,8 @@ F 0 "D1" V 1084 2589 50  0000 L CNN
 F 1 "D_Schottky" V 1175 2589 50  0000 L CNN
 F 2 "Common_Footprint:D_SMA" H 1030 2510 50  0001 C CNN
 F 3 "~" H 1130 2510 50  0001 C CNN
-F 4 "?" H 1230 2710 50  0001 C CNN "Fournisseur"
-F 5 "?" H 1330 2810 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 1230 2710 50  0001 C CNN "Fournisseur"
+F 5 "2750942" H 1330 2810 50  0001 C CNN "CodeCommande"
 	1    1130 2510
 	0    1    1    0   
 $EndComp
@@ -78,8 +78,8 @@ F 0 "C1" H 1952 2066 50  0000 L CNN
 F 1 "1000uF" H 1952 1975 50  0000 L CNN
 F 2 "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm_horizontal" H 1770 1990 50  0001 C CNN
 F 3 "~" H 1860 2020 50  0001 C CNN
-F 4 "?" H 1970 2190 50  0001 C CNN "Fournisseur"
-F 5 "?" H 2070 2290 50  0001 C CNN "codeCommande"
+F 4 "Farnell" H 1970 2190 50  0001 C CNN "Fournisseur"
+F 5 "2508117" H 2070 2290 50  0001 C CNN "codeCommande"
 	1    1860 2020
 	1    0    0    -1  
 $EndComp
@@ -91,6 +91,8 @@ F 0 "D2" H 1273 1495 50  0000 C CNN
 F 1 "LED" H 1273 1586 50  0000 C CNN
 F 2 "LED_THT:LED_D5.0mm" H 1280 1750 50  0001 C CNN
 F 3 "~" H 1280 1850 50  0001 C CNN
+F 4 "Farnell" H 1280 1750 50  0001 C CNN "Fournisseur"
+F 5 "2764513" H 1280 1750 50  0001 C CNN "codeCommande"
 	1    1280 1750
 	-1   0    0    1   
 $EndComp
@@ -189,11 +191,11 @@ L Common_Lib:R R1
 U 1 1 601E84CA
 P 1610 1750
 F 0 "R1" V 1414 1750 50  0000 C CNN
-F 1 "460Ohm" V 1505 1750 50  0000 C CNN
+F 1 "33Kohm" V 1505 1750 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 1610 1750 50  0001 C CNN
 F 3 "~" H 1640 1770 50  0001 C CNN
-F 4 "?" H 1740 1870 50  0001 C CNN "Fournisseur"
-F 5 "?" H 1840 1970 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 1740 1870 50  0001 C CNN "Fournisseur"
+F 5 "9343059" H 1840 1970 50  0001 C CNN "CodeCommande"
 	1    1610 1750
 	0    1    1    0   
 $EndComp
@@ -221,8 +223,8 @@ F 0 "D5" V 4554 2569 50  0000 L CNN
 F 1 "D_Schottky" V 4645 2569 50  0000 L CNN
 F 2 "Common_Footprint:D_SMA" H 4500 2490 50  0001 C CNN
 F 3 "~" H 4600 2490 50  0001 C CNN
-F 4 "?" H 4700 2690 50  0001 C CNN "Fournisseur"
-F 5 "?" H 4800 2790 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 4700 2690 50  0001 C CNN "Fournisseur"
+F 5 "2750942" H 4800 2790 50  0001 C CNN "CodeCommande"
 	1    4600 2490
 	0    1    1    0   
 $EndComp
@@ -234,8 +236,8 @@ F 0 "C3" H 5422 2046 50  0000 L CNN
 F 1 "1000uF" H 5422 1955 50  0000 L CNN
 F 2 "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm_horizontal" H 5240 1970 50  0001 C CNN
 F 3 "~" H 5330 2000 50  0001 C CNN
-F 4 "?" H 5440 2170 50  0001 C CNN "Fournisseur"
-F 5 "?" H 5540 2270 50  0001 C CNN "codeCommande"
+F 4 "Farnell" H 5440 2170 50  0001 C CNN "Fournisseur"
+F 5 "2508117" H 5540 2270 50  0001 C CNN "codeCommande"
 	1    5330 2000
 	1    0    0    -1  
 $EndComp
@@ -247,6 +249,8 @@ F 0 "D6" H 4743 1475 50  0000 C CNN
 F 1 "LED" H 4743 1566 50  0000 C CNN
 F 2 "LED_THT:LED_D5.0mm" H 4750 1730 50  0001 C CNN
 F 3 "~" H 4750 1830 50  0001 C CNN
+F 4 "Farnell" H 4750 1730 50  0001 C CNN "Fournisseur"
+F 5 "2764513" H 4750 1730 50  0001 C CNN "codeCommande"
 	1    4750 1730
 	-1   0    0    1   
 $EndComp
@@ -277,11 +281,11 @@ L Common_Lib:R R3
 U 1 1 601F94A7
 P 5080 1730
 F 0 "R3" V 4884 1730 50  0000 C CNN
-F 1 "460Ohm" V 4975 1730 50  0000 C CNN
+F 1 "33Kohm" V 4975 1730 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 5080 1730 50  0001 C CNN
 F 3 "~" H 5110 1750 50  0001 C CNN
-F 4 "?" H 5210 1850 50  0001 C CNN "Fournisseur"
-F 5 "?" H 5310 1950 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 5210 1850 50  0001 C CNN "Fournisseur"
+F 5 "9343059" H 5310 1950 50  0001 C CNN "CodeCommande"
 	1    5080 1730
 	0    1    1    0   
 $EndComp
@@ -309,8 +313,8 @@ F 0 "D3" V 3224 6349 50  0000 L CNN
 F 1 "D_Schottky" V 3315 6349 50  0000 L CNN
 F 2 "Common_Footprint:D_SMA" H 3170 6270 50  0001 C CNN
 F 3 "~" H 3270 6270 50  0001 C CNN
-F 4 "?" H 3370 6470 50  0001 C CNN "Fournisseur"
-F 5 "?" H 3470 6570 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 3370 6470 50  0001 C CNN "Fournisseur"
+F 5 "2750942" H 3470 6570 50  0001 C CNN "CodeCommande"
 	1    3270 6270
 	0    1    1    0   
 $EndComp
@@ -322,8 +326,8 @@ F 0 "C2" H 4092 5826 50  0000 L CNN
 F 1 "1000uF" H 4092 5735 50  0000 L CNN
 F 2 "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm_horizontal" H 3910 5750 50  0001 C CNN
 F 3 "~" H 4000 5780 50  0001 C CNN
-F 4 "?" H 4110 5950 50  0001 C CNN "Fournisseur"
-F 5 "?" H 4210 6050 50  0001 C CNN "codeCommande"
+F 4 "Farnell" H 4110 5950 50  0001 C CNN "Fournisseur"
+F 5 "2508117" H 4210 6050 50  0001 C CNN "codeCommande"
 	1    4000 5780
 	1    0    0    -1  
 $EndComp
@@ -335,6 +339,8 @@ F 0 "D4" H 3413 5255 50  0000 C CNN
 F 1 "LED" H 3413 5346 50  0000 C CNN
 F 2 "LED_THT:LED_D5.0mm" H 3420 5510 50  0001 C CNN
 F 3 "~" H 3420 5610 50  0001 C CNN
+F 4 "Farnell" H 3420 5510 50  0001 C CNN "Fournisseur"
+F 5 "2764513" H 3420 5510 50  0001 C CNN "codeCommande"
 	1    3420 5510
 	-1   0    0    1   
 $EndComp
@@ -365,11 +371,11 @@ L Common_Lib:R R2
 U 1 1 601FCCF9
 P 3750 5510
 F 0 "R2" V 3554 5510 50  0000 C CNN
-F 1 "460Ohm" V 3645 5510 50  0000 C CNN
+F 1 "33Kohm" V 3645 5510 50  0000 C CNN
 F 2 "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal" H 3750 5510 50  0001 C CNN
 F 3 "~" H 3780 5530 50  0001 C CNN
-F 4 "?" H 3880 5630 50  0001 C CNN "Fournisseur"
-F 5 "?" H 3980 5730 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 3880 5630 50  0001 C CNN "Fournisseur"
+F 5 "9343059" H 3980 5730 50  0001 C CNN "CodeCommande"
 	1    3750 5510
 	0    1    1    0   
 $EndComp
@@ -721,6 +727,8 @@ F 0 "J1" H 8958 5555 50  0000 C CNN
 F 1 "Conn_01x04" H 8958 5646 50  0000 C CNN
 F 2 "Connector_Molex:Molex_Micro-Fit_3.0_43045-0412_2x02_P3.00mm_Vertical" H 9040 5980 50  0001 C CNN
 F 3 "~" H 9040 5980 50  0001 C CNN
+F 4 "Farnell" H 9040 5980 50  0001 C CNN "Fournisseur"
+F 5 "1012247" H 9040 5980 50  0001 C CNN "codeCommande"
 	1    9040 5980
 	-1   0    0    1   
 $EndComp
@@ -861,6 +869,8 @@ F 0 "J2" H 7338 5615 50  0000 C CNN
 F 1 "Conn_01x02" H 7338 5706 50  0000 C CNN
 F 2 "Connector_Molex:Molex_Nano-Fit_105309-xx02_1x02_P2.50mm_Vertical" H 7420 5940 50  0001 C CNN
 F 3 "~" H 7420 5940 50  0001 C CNN
+F 4 "Farnell" H 7420 5940 50  0001 C CNN "Fournisseur"
+F 5 "2820677" H 7420 5940 50  0001 C CNN "codeCommande"
 	1    7420 5940
 	-1   0    0    1   
 $EndComp
@@ -902,8 +912,8 @@ F 0 "D7" H 9900 6170 50  0000 C CNN
 F 1 "D_Schottky" H 9870 5950 50  0000 C CNN
 F 2 "Common_Footprint:D_SMA" H 9790 6080 50  0001 C CNN
 F 3 "~" H 9890 6080 50  0001 C CNN
-F 4 "?" H 9990 6280 50  0001 C CNN "Fournisseur"
-F 5 "?" H 10090 6380 50  0001 C CNN "CodeCommande"
+F 4 "Farnell" H 9990 6280 50  0001 C CNN "Fournisseur"
+F 5 "2750942" H 10090 6380 50  0001 C CNN "CodeCommande"
 	1    9890 6080
 	1    0    0    -1  
 $EndComp
@@ -915,6 +925,8 @@ F 0 "C4" H 9625 5976 50  0000 L CNN
 F 1 "1000uF" H 9625 5885 50  0000 L CNN
 F 2 "Capacitor_THT:C_Radial_D10.0mm_H20.0mm_P5.00mm_horizontal" H 9548 5780 50  0001 C CNN
 F 3 "~" H 9510 5930 50  0001 C CNN
+F 4 "Farnell" H 9510 5930 50  0001 C CNN "Fournisseur"
+F 5 "2508117" H 9510 5930 50  0001 C CNN "codeCommande"
 	1    9510 5930
 	1    0    0    -1  
 $EndComp
