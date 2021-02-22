@@ -113,7 +113,7 @@ U 1 1 601A279B
 P 2770 2460
 F 0 "J4" V 2800 2888 60  0000 L CNN
 F 1 "DF11-8DP-2DS(24)" V 2520 2080 60  0000 L CNN
-F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 2770 3060 60  0001 C CNN
+F 2 "Common_Footprint:DF11-8DP-2DS(24)" H 2770 3060 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 3370 1860 60  0001 C CNN
 F 4 "Farnell" H 2820 3010 50  0001 C CNN "Fournisseur"
 F 5 "1688360" H 2920 3110 50  0001 C CNN "CodeCommande"
@@ -148,7 +148,7 @@ L Common_Lib:DF11-8DP-2DS(24) J3
 U 1 1 601BC803
 P 2770 1380
 F 0 "J3" V 2800 1808 60  0000 L CNN
-F 1 "DF11-8DP-2DS(24)" V 2520 960 60  0000 L CNN
+F 1 "DF11-8DP-2DSA(08)" V 2520 960 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 2770 1980 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 3370 780 60  0001 C CNN
 F 4 "Farnell" H 2820 1930 50  0001 C CNN "Fournisseur"
@@ -430,7 +430,7 @@ L Common_Lib:DF11-8DP-2DS(24) J8
 U 1 1 6021508A
 P 6650 2480
 F 0 "J8" V 6680 2908 60  0000 L CNN
-F 1 "DF11-8DP-2DS(24)" V 6400 2100 60  0000 L CNN
+F 1 "DF11-8DP-2DSA(08)" V 6400 2100 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 6650 3080 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 7250 1880 60  0001 C CNN
 F 4 "Farnell" H 6700 3030 50  0001 C CNN "Fournisseur"
@@ -466,7 +466,7 @@ L Common_Lib:DF11-8DP-2DS(24) J7
 U 1 1 6021509E
 P 6650 1400
 F 0 "J7" V 6680 1828 60  0000 L CNN
-F 1 "DF11-8DP-2DS(24)" V 6400 980 60  0000 L CNN
+F 1 "DF11-8DP-2DSA(08)" V 6400 980 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 6650 2000 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 7250 800 60  0001 C CNN
 F 4 "Farnell" H 6700 1950 50  0001 C CNN "Fournisseur"
@@ -564,7 +564,7 @@ L Common_Lib:DF11-8DP-2DS(24) J5
 U 1 1 60217902
 P 5310 5130
 F 0 "J5" V 5340 5558 60  0000 L CNN
-F 1 "DF11-8DP-2DS(24)" V 5060 4710 60  0000 L CNN
+F 1 "DF11-8DP-2DSA(08)" V 5060 4710 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 5310 5730 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 5910 4530 60  0001 C CNN
 F 4 "Farnell" H 5360 5680 50  0001 C CNN "Fournisseur"
