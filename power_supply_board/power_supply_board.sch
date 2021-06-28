@@ -126,7 +126,7 @@ F 1 "DF11-8DP-2DSA(08)" V 2520 960 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 2770 1980 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 3370 780 60  0001 C CNN
 F 4 "Farnell" H 2820 1930 50  0001 C CNN "Fournisseur"
-F 5 "1688360" H 2920 2030 50  0001 C CNN "CodeCommande"
+F 5 "1688344" H 2920 2030 50  0001 C CNN "CodeCommande"
 	1    2770 1380
 	1    0    0    -1  
 $EndComp
@@ -295,7 +295,7 @@ F 1 "DF11-8DP-2DSA(08)" V 6400 2100 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 6650 3080 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 7250 1880 60  0001 C CNN
 F 4 "Farnell" H 6700 3030 50  0001 C CNN "Fournisseur"
-F 5 "1688360" H 6800 3130 50  0001 C CNN "CodeCommande"
+F 5 "1688344" H 6800 3130 50  0001 C CNN "CodeCommande"
 	1    6650 2480
 	1    0    0    -1  
 $EndComp
@@ -331,7 +331,7 @@ F 1 "DF11-8DP-2DSA(08)" V 6400 980 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 6650 2000 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 7250 800 60  0001 C CNN
 F 4 "Farnell" H 6700 1950 50  0001 C CNN "Fournisseur"
-F 5 "1688360" H 6800 2050 50  0001 C CNN "CodeCommande"
+F 5 "1688344" H 6800 2050 50  0001 C CNN "CodeCommande"
 	1    6650 1400
 	1    0    0    -1  
 $EndComp
@@ -429,7 +429,7 @@ F 1 "DF11-8DP-2DSA(08)" V 5060 4710 60  0000 L CNN
 F 2 "Connector_Hirose:Hirose_DF11-8DP-2DSA_2x04_P2.00mm_Vertical" H 5310 5730 60  0001 C CNN
 F 3 "https://www.hirose.com/product/en/download_file/key_name/DF11%2D8DP%2D2DS%2824%29/category/Drawing%20(2D)/doc_file_id/39437/?file_category_id=6&item_id=05430535724&is_series=" H 5910 4530 60  0001 C CNN
 F 4 "Farnell" H 5360 5680 50  0001 C CNN "Fournisseur"
-F 5 "1688360" H 5460 5780 50  0001 C CNN "CodeCommande"
+F 5 "1688344" H 5460 5780 50  0001 C CNN "CodeCommande"
 	1    5310 5130
 	1    0    0    -1  
 $EndComp
@@ -750,7 +750,7 @@ F 1 "3300uF" H 9625 5885 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Axial_L30.0mm_D18.0mm_P35.00mm_Horizontal" H 9548 5780 50  0001 C CNN
 F 3 "~" H 9510 5930 50  0001 C CNN
 F 4 "Farnell" H 9510 5930 50  0001 C CNN "Fournisseur"
-F 5 "2508117" H 9510 5930 50  0001 C CNN "codeCommande"
+F 5 "1165387" H 9510 5930 50  0001 C CNN "codeCommande"
 	1    9510 5930
 	-1   0    0    1   
 $EndComp
@@ -787,7 +787,7 @@ F 1 "3300uF" V 1700 7310 50  0000 L CNN
 F 2 "Capacitor_THT:CP_Axial_L30.0mm_D18.0mm_P35.00mm_Horizontal" H 1730 7410 50  0001 C CNN
 F 3 "~" H 1820 7440 50  0001 C CNN
 F 4 "Farnell" H 1930 7610 50  0001 C CNN "Fournisseur"
-F 5 "2508117" H 2030 7710 50  0001 C CNN "codeCommande"
+F 5 "1165387" H 2030 7710 50  0001 C CNN "codeCommande"
 	1    1820 7440
 	0    -1   -1   0   
 $EndComp
